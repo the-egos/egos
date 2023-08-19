@@ -1,1 +1,1 @@
-# egos
+# egos frontend
