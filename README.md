@@ -12,7 +12,7 @@
 
 </div>
 
-##고민 && TODO List
+## 고민 && TODO List
 
 - [ ] 페이지 디자인 컨셉
 - [ ] 디자인패턴?(MVVM || CVM) 학습하기
