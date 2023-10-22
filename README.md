@@ -1,75 +1,54 @@
-# Nuxt 3 Minimal Starter
+<h1 align='left'>Blog of Egos</h1>
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<h2 align=''>Stacks</h2>
 
-## Setup
+<div align="start">
 
-Make sure to install the dependencies:
+<img  src="https://img.shields.io/badge/NuxtJS-09D3AC?logo=nuxt.js&style=for-the-badge&logoColor=black" alt="nuxt-js"/>
+
+<img  src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=black"/>
+
+<img  src="https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&style=for-the-badge&logoColor=black"/>
+
+</div>
+
+## 고민 && TODO List
+
+- [ ] 페이지 디자인 컨셉
+- [ ] 디자인패턴?(MVVM || CVM) 학습하기
+- [ ] env 파일 설정 및 규칙설정
+- [ ] 페이지 구조 설정
+- [ ] 데이터 상태관리 고민
+- [ ] api 데이터 호출
+- [ ] layout 구조
+
+First, run the development server:
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
+# or
 yarn dev
-
-# bun
-bun run dev
+# or
+pnpm dev
 ```
 
-## Production
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Build the application for production:
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-```bash
-# npm
-npm run build
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-# pnpm
-pnpm run build
+## Learn More
 
-# yarn
-yarn build
+To learn more about Next.js, take a look at the following resources:
 
-# bun
-bun run build
-```
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Locally preview production build:
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-```bash
-# npm
-npm run preview
+## Deploy on Vercel
 
-# pnpm
-pnpm run preview
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
