@@ -1,0 +1,9 @@
+@import './palettes.css';
+
+:root {
+  --bg-primary: var(--grey-50);
+
+  --text-primary: var(--grey-900);
+
+  --border-primary: #e6e6e6;
+}

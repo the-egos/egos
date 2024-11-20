@@ -1,0 +1,9 @@
+@import './palettes.css';
+
+:root.dark {
+  --bg-primay: var(--grey-900);
+
+  --text-primary: #fff;
+
+  --border-primary: #e6e6e6;
+}

@@ -1,0 +1,9 @@
+@import './reset.css';
+@import './colors.css';
+@import './colors.dark.css';
+@import './common.css';
+@import './animation.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

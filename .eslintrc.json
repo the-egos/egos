@@ -1,0 +1,14 @@
+{
+  "extends": ["next/core-web-vitals", "prettier"],
+  "plugins": ["react-hooks", "import"],
+  "rules": {
+    "react-hooks/rules-of-hooks": "error",
+    "@next/next/no-img-element": "off",
+    "react-hooks/exhaustive-deps": [
+      "warn",
+      {
+        "additionalHooks": "useRecoilCallback"
+      }
+    ]
+  }
+}

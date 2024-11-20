@@ -1,33 +1,23 @@
-<h1 align='left'>Blog of Egos</h1>
+### MooN's Blog <br>
 
-<h2 align=''>Stacks</h2>
+<h1 align='center'>블로그 운영 프로젝트</h1>
+
+<h2 align='center'>Stacks</h2>
 
 <div align="start">
 
-<img  src="https://img.shields.io/badge/NuxtJS-09D3AC?logo=nuxt.js&style=for-the-badge&logoColor=black" alt="nuxt-js"/>
+<img  src="https://img.shields.io/badge/NextJS-09D3AC?logo=next.js&style=for-the-badge&logoColor=black" alt="next-js"/>
 
 <img  src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=black"/>
 
 <img  src="https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&style=for-the-badge&logoColor=black"/>
 
+<img  src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&style=for-the-badge&logoColor=white"/>
+
+<img  src="https://img.shields.io/badge/nextAuth-3178c6?logo=nextAuth&style=for-the-badge&logoColor=black"/>
+
+<img  src="https://img.shields.io/badge/node.js-5FA04E?logo=node.js&style=for-the-badge&logoColor=black"/>
+
+<!-- https://simpleicons.org/?q=java -->
+
 </div>
-
-## 고민 && TODO List
-
-- [ ] 페이지 디자인 컨셉
-- [ ] 디자인패턴?(MVVM || CVM) 학습하기
-- [ ] env 파일 설정 및 규칙설정
-- [ ] 페이지 구조 설정
-- [ ] 데이터 상태관리 고민
-- [ ] api 데이터 호출
-- [ ] layout 구조
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
